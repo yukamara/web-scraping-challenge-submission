@@ -1,0 +1,65 @@
+html { 
+    font-family: sans-serif; 
+    background: #eee; 
+    padding: 1rem; 
+}
+
+body { 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    background: rgb(200, 237, 247); 
+    border: solid black;
+}
+
+h1 { 
+    font-family: serif; 
+    font-size: 65px;
+    color: #377ba8; 
+    margin: 1rem 0; 
+    padding: 1rem;
+}
+
+h2 { 
+    font-family: serif; 
+    font-size: 50px;
+    color: #377ba8; 
+    margin: 1rem 0; 
+    text-align: center;
+}
+
+h3 { 
+    font-family: serif; 
+    font-size: 28px;
+    color: #000000; 
+    text-align:left;
+}
+
+h5 { 
+    font-family: serif; 
+    font-size: 28px;
+    color: #000000; 
+    text-align:left;
+}
+
+p { 
+    font-family: serif; 
+    font-size: 20px;
+    color: #000000;  
+}
+
+footer { 
+    font-family: serif; 
+    font-size: 20px;
+    color: #000000;  
+}
+
+a { 
+    color: #377ba8; 
+}
+
+hr { 
+    border: none; 
+    border-top: 1px solid black; 
+}
+
+
